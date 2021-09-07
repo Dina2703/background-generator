@@ -1,0 +1,28 @@
+body {
+    margin-left: 20%;
+    background-color: aliceblue;
+}
+
+h1 {
+    color: rgb(31, 129, 209);
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+button {
+    color:white;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-size: large;
+    font-weight: 800;
+    background-color: rgb(38, 122, 83);
+    border:none;
+    border-radius: 5px;
+    padding: 40px;
+    margin-left: 9%;
+    box-shadow: 15px 10px 10px #888;
+    transition: all 0.3;
+}
+button:hover {
+    transform: scale(1.05);
+}
+
